@@ -18,7 +18,7 @@ Perform initial legal aid intake when someone needs legal help but can't afford 
 Try these prompts to test the skill:
 
 - "[I can't afford a lawyer]"
-- "[What are my rights?]"
+- "[I got served an eviction notice, what are my rights?]"
 
 ## Design Notes
 
